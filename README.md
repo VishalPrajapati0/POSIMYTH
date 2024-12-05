@@ -20,7 +20,7 @@ npm run dev
 
 4.Open the Application
 
-http://localhost:5174/
+localhost:5174
 
 Live Demo
 
