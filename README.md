@@ -20,7 +20,7 @@ npm run dev
 
 4.Open the Application
 
-http://localhost:PORT
+http://localhost:5174/
 
 Live Demo
 
